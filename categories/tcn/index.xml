@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TCN on My blog</title>
+    <link>https://wangshuojie12138.github.io/categories/tcn/</link>
+    <description>Recent content in TCN on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://wangshuojie12138.github.io/categories/tcn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📄 Xu, J., Zhang, C., Zhang, P., &amp; Song, D. (2018, August). Text Classification with Enriched Word Features. In Pacific Rim International Conference on Artificial Intelligence (pp. 274-281). Springer, Cham.(CCF-C)</title>
+      <link>https://wangshuojie12138.github.io/paper/text_classification_with_enriched_word_features/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangshuojie12138.github.io/paper/text_classification_with_enriched_word_features/</guid>
+      
+        <description>🙍‍♂️Xu, J., Zhang, C.🖊, Zhang, P., &amp; Song, D</description>
+      
+    </item>
+    
+  </channel>
+</rss>

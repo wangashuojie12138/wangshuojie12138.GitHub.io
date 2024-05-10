@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Search System on My blog</title>
+    <link>https://wangshuojie12138.github.io/categories/search-system/</link>
+    <description>Recent content in Search System on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://wangshuojie12138.github.io/categories/search-system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📄 Wang, J., Zhang, P., Zhang, C., &amp; Song, D. (2019, July). SCSS-LIE : A Novel Synchronous Collaborative Search System with a Live Interactive Engine. In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 1309-1312). ACM.(CCF-A)</title>
+      <link>https://wangshuojie12138.github.io/paper/a_novel_synchro_nous_collaborative_search_system_with_a_live_interactive_engine/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangshuojie12138.github.io/paper/a_novel_synchro_nous_collaborative_search_system_with_a_live_interactive_engine/</guid>
+      
+        <description>🙍‍♂️Wang, J., Zhang, P., Zhang, C.🖊, &amp; Song, D.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

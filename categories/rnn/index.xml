@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RNN on My blog</title>
+    <link>https://wangshuojie12138.github.io/categories/rnn/</link>
+    <description>Recent content in RNN on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://wangshuojie12138.github.io/categories/rnn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📄 Zhang, C., Chen, Z., Yan, D., Cao, J., &amp; Zhang, Q.(2023, April). Is a Single Embedding Sufficient? Resolving Polysemy of Words from the Perspective of Markov Decision Process. In Database Systems for Advanced Applications : 28th International Conference, DASFAA 2023, Tianjin, China, April 17–20, 2023, Proceedings, Part III (pp. 555-571). Cham : Springer Nature Switzerland. (CCF B)</title>
+      <link>https://wangshuojie12138.github.io/paper/is_a_single_embedding_sufficient/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangshuojie12138.github.io/paper/is_a_single_embedding_sufficient/</guid>
+      
+        <description>🙍‍♂️Zhang, C.🖊, Chen, Z., Yan, D., Cao, J., &amp; Zhang, Q.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

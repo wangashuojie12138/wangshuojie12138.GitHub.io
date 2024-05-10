@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edge clouds on My blog</title>
+    <link>https://wangshuojie12138.github.io/categories/edge-clouds/</link>
+    <description>Recent content in Edge clouds on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://wangshuojie12138.github.io/categories/edge-clouds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📄 Feng, Y., Shen, S., Zhang, C., &amp; Wang, X. (2023). Quicklayer : A Layer-Stack-Oriented Accelerating Middleware for Fast Deployment in Edge Clouds.(CCF-C)</title>
+      <link>https://wangshuojie12138.github.io/paper/quicklayer/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangshuojie12138.github.io/paper/quicklayer/</guid>
+      
+        <description>🙍‍♂️Feng, Y., Shen, S., Zhang, C.🖊, &amp; Wang, X.</description>
+      
+    </item>
+    
+    <item>
+      <title>📄 Feng, Y., Shen, S., Xu, M., Zhang, C., Wang, X., Wang, X., ... &amp; Leung, V. (2023). A large-scale holistic measurement of crowdsourced edge cloud platform. World Wide Web, 1-24. (IF :1.77，CAS/JCR-3, CCF-B)</title>
+      <link>https://wangshuojie12138.github.io/paper/a_large-scale_holistic_measurement_of_crowdsourced_edge_cloud_platform/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangshuojie12138.github.io/paper/a_large-scale_holistic_measurement_of_crowdsourced_edge_cloud_platform/</guid>
+      
+        <description>🙍‍♂️Yicheng Feng, Shihao Shen, Mengwei Xu, Cheng Zhang🖊, Xin Wang, Xiaofei Wang, Wenyu Wang &amp; Victor C. M. Leung </description>
+      
+    </item>
+    
+  </channel>
+</rss>

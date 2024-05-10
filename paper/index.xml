@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers on My blog</title>
+    <link>https://wangshuojie12138.github.io/paper/</link>
+    <description>Recent content in Papers on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://wangshuojie12138.github.io/paper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📄 Zhicheng Liu, Zebo Zhao, Xiaofei Wang , Mianxiong Dong, Chao Qiu and Cheng Zhang, Toward Mobility-aware Edge Inference via Model Partition and Service Migration,” in IEEE International Conference on Communications(CCF-C)</title>
+      <link>https://wangshuojie12138.github.io/paper/toward_mobility_aware_edge_inference_via_model_partition_and_service_migration/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangshuojie12138.github.io/paper/toward_mobility_aware_edge_inference_via_model_partition_and_service_migration/</guid>
+      
+        <description>🙍‍♂️Zhicheng Liu, Zebo Zhao, Xiaofei Wang , Mianxiong Dong, Chao Qiu and Cheng Zhang🖊</description>
+      
+    </item>
+    
+    <item>
+      <title>📄 Feng, Y., Shen, S., Zhang, C., &amp; Wang, X. (2023). Quicklayer : A Layer-Stack-Oriented Accelerating Middleware for Fast Deployment in Edge Clouds.(CCF-C)</title>
+      <link>https://wangshuojie12138.github.io/paper/quicklayer/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangshuojie12138.github.io/paper/quicklayer/</guid>
+      
+        <description>🙍‍♂️Feng, Y., Shen, S., Zhang, C.🖊, &amp; Wang, X.</description>
+      
+    </item>
+    
+    <item>
+      <title>📄 Feng, Y., Shen, S., Xu, M., Zhang, C., Wang, X., Wang, X., ... &amp; Leung, V. (2023). A large-scale holistic measurement of crowdsourced edge cloud platform. World Wide Web, 1-24. (IF :1.77，CAS/JCR-3, CCF-B)</title>
+      <link>https://wangshuojie12138.github.io/paper/a_large-scale_holistic_measurement_of_crowdsourced_edge_cloud_platform/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangshuojie12138.github.io/paper/a_large-scale_holistic_measurement_of_crowdsourced_edge_cloud_platform/</guid>
+      
+        <description>🙍‍♂️Yicheng Feng, Shihao Shen, Mengwei Xu, Cheng Zhang🖊, Xin Wang, Xiaofei Wang, Wenyu Wang &amp; Victor C. M. Leung </description>
+      
+    </item>
+    
+    <item>
+      <title>📄 Shihao Shen , Yicheng Feng, Mengwei Xu, Cheng Zhang, Xiaofei Wang, Wenyu Wang and Victor C.M.Leung, A Holistic QoS View of Crowdsourced Edge Cloud Platform,” in IEEE/ACM International Symposium on Quality of Service (IWQoS), 2023 , （CCF-B）</title>
+      <link>https://wangshuojie12138.github.io/paper/a_holistic_qos_view_of_crowdsourced_edge_cloud_platform/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangshuojie12138.github.io/paper/a_holistic_qos_view_of_crowdsourced_edge_cloud_platform/</guid>
+      
+        <description>CCF-B Conferences
+🙍‍♂️Author Shihao Shen; Yicheng Feng; Mengwei Xu; Cheng Zhang🖊; Xiaofei Wang; Wenyu Wang; Victor C.</description>
+      
+    </item>
+    
+    <item>
+      <title>📄 Chao Qiu, Zheyuan Chen, Xiaoxu Ren, Ziming Dai, Cheng Zhang*, Xiaofei Wang, “AImers-6G : AI-Driven Region-Temporal Resource Provisioning for 6G Immersive Services,” in IEEE Wireless Communications Magazine, 2023. (CAS/JCR-1, IF :12.7)</title>
+      <link>https://wangshuojie12138.github.io/paper/aimers_6g/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangshuojie12138.github.io/paper/aimers_6g/</guid>
+      
+        <description>🙍‍♂️Chao Qiu, Zheyuan Chen, Xiaoxu Ren, Ziming Dai, Cheng Zhang*🖊, Xiaofei Wang</description>
+      
+    </item>
+    
+    <item>
+      <title>📄 Zhang, C., Chen, Z., Yan, D., Cao, J., &amp; Zhang, Q.(2023, April). Is a Single Embedding Sufficient? Resolving Polysemy of Words from the Perspective of Markov Decision Process. In Database Systems for Advanced Applications : 28th International Conference, DASFAA 2023, Tianjin, China, April 17–20, 2023, Proceedings, Part III (pp. 555-571). Cham : Springer Nature Switzerland. (CCF B)</title>
+      <link>https://wangshuojie12138.github.io/paper/is_a_single_embedding_sufficient/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangshuojie12138.github.io/paper/is_a_single_embedding_sufficient/</guid>
+      
+        <description>🙍‍♂️Zhang, C.🖊, Chen, Z., Yan, D., Cao, J., &amp; Zhang, Q.</description>
+      
+    </item>
+    
+    <item>
+      <title>📄 Zheng Di, Tao Luo, Chao Qiu, Cheng Zhang, Zhutao Liu, Xiaofei Wang*, Jing Jiang “In-Network Pooling : Contribution-Aware Allocation Optimization for Computing Power Network in B5G/6G Era,” in IEEE Transactions on Network Science and Engineering, 2022. (CAS/JCR-2, IF :5.213)</title>
+      <link>https://wangshuojie12138.github.io/paper/in_network_pooling_contribution_aware_allocation_optimization_for_computing_power_network_in_b5g6g_era/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangshuojie12138.github.io/paper/in_network_pooling_contribution_aware_allocation_optimization_for_computing_power_network_in_b5g6g_era/</guid>
+      
+        <description>🙍‍♂️Di, Z., Luo, T., Qiu, C., Zhang, C.🖊, Liu, Z., Wang, X., &amp; Jiang, J</description>
+      
+    </item>
+    
+    <item>
+      <title>📄 Zhang, C., Li, Q., Hua, L., &amp; Song, D. (2021, August). How does Attention Affect the Model?. In Findings of the Association for Computational Linguistics : ACL-IJCNLP 2021 (pp. 256-268).(CCF-A)</title>
+      <link>https://wangshuojie12138.github.io/paper/how_does_attention_affect_the_model/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangshuojie12138.github.io/paper/how_does_attention_affect_the_model/</guid>
+      
+        <description>🙍‍♂️Zhang, C.🖊, Li, Q., Hua, L., &amp; Song, D</description>
+      
+    </item>
+    
+    <item>
+      <title>📄 Zhang, C., Li, Q., Hua, L., &amp; Song, D. (2020). Assessing the Memory Ability of Recurrent Neural Networks. The 24th European Conference on Artificial Intelligence. Accepted.(CCF-B)</title>
+      <link>https://wangshuojie12138.github.io/paper/assessing_the_memory_ability_of_recurrent/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangshuojie12138.github.io/paper/assessing_the_memory_ability_of_recurrent/</guid>
+      
+        <description>🙍‍♂️Zhang, C.🖊, Li, Q., Hua, L., &amp; Song, D.</description>
+      
+    </item>
+    
+    <item>
+      <title>📄 Wang, J., Zhang, P., Zhang, C., &amp; Song, D. (2019, July). SCSS-LIE : A Novel Synchronous Collaborative Search System with a Live Interactive Engine. In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 1309-1312). ACM.(CCF-A)</title>
+      <link>https://wangshuojie12138.github.io/paper/a_novel_synchro_nous_collaborative_search_system_with_a_live_interactive_engine/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangshuojie12138.github.io/paper/a_novel_synchro_nous_collaborative_search_system_with_a_live_interactive_engine/</guid>
+      
+        <description>🙍‍♂️Wang, J., Zhang, P., Zhang, C.🖊, &amp; Song, D.</description>
+      
+    </item>
+    
+    <item>
+      <title>📄 Xu, J., Zhang, C., Zhang, P., &amp; Song, D. (2018, August). Text Classification with Enriched Word Features. In Pacific Rim International Conference on Artificial Intelligence (pp. 274-281). Springer, Cham.(CCF-C)</title>
+      <link>https://wangshuojie12138.github.io/paper/text_classification_with_enriched_word_features/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangshuojie12138.github.io/paper/text_classification_with_enriched_word_features/</guid>
+      
+        <description>🙍‍♂️Xu, J., Zhang, C.🖊, Zhang, P., &amp; Song, D</description>
+      
+    </item>
+    
+    <item>
+      <title>📄 Wang, J., Zhang, P., Zhang, C., &amp; Song, D. (2019, July). SCSS-LIE : A Novel Synchronous Collaborative Search System with a Live Interactive Engine. In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 1309-1312). ACM.(CCF-A)</title>
+      <link>https://wangshuojie12138.github.io/paper/secc-_a_novel_search_engine/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangshuojie12138.github.io/paper/secc-_a_novel_search_engine/</guid>
+      
+        <description>🙍‍♂️Zhang, C.🖊, Zhang, P., Li, J., &amp; Song, D.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

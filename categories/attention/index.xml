@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Attention on My blog</title>
+    <link>https://wangshuojie12138.github.io/categories/attention/</link>
+    <description>Recent content in Attention on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://wangshuojie12138.github.io/categories/attention/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📄 Zhang, C., Li, Q., Hua, L., &amp; Song, D. (2021, August). How does Attention Affect the Model?. In Findings of the Association for Computational Linguistics : ACL-IJCNLP 2021 (pp. 256-268).(CCF-A)</title>
+      <link>https://wangshuojie12138.github.io/paper/how_does_attention_affect_the_model/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wangshuojie12138.github.io/paper/how_does_attention_affect_the_model/</guid>
+      
+        <description>🙍‍♂️Zhang, C.🖊, Li, Q., Hua, L., &amp; Song, D</description>
+      
+    </item>
+    
+  </channel>
+</rss>
